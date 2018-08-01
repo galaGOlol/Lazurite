@@ -1,2 +1,2 @@
 # Lazurite
-A simple kernal
+A simple kernel
